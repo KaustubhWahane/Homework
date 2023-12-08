@@ -1,0 +1,20 @@
+.App{
+    display: grid;
+    grid-template-columns: 300px 300px 300px 100px; 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header{
+    font-size: 25px;
+}
+.CardLayer{
+    margin: 15em 15em;
+    width: 15em;
+    height: 24em;
+    border: 1px solid aqua;
+    background-color: salmon;
+}
+.Photo{
+    width: 13em;
+    height: 15em;
+}
